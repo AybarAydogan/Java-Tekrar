@@ -44,6 +44,7 @@ public class C01_HelloWorld{
         \" : yazar
         \' : yazar
         \\ : \ yazar
+        \\W : boşlukların yerine ne yazacağımızı belirler
          */
         System.out.println("====================");
         System.out.println("Hello World\nHello Wise");
